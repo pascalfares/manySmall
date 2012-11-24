@@ -1,0 +1,115 @@
+/* 
+Document   : login
+Created on : Jun 28, 2008, 12:12:37 PM
+Author     : Maroun
+Description:
+Purpose of the stylesheet follows.
+*/
+
+/* 
+TODO customize this sample style
+Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+.container{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px; 
+    font-weight: bold; 
+    color: #002499; 
+    background-color: #A5C7EE; 
+    height: 22px;
+    font-size: 14px;
+    border-top: solid 1px #CCCCCC; /*#88b0e4; */
+    border-left: solid 1px #CCCCCC; /*#88b0e4; */
+    border-bottom: solid 1px #CCCCCC; /*#88b0e4; */
+    border-right: solid 1px #CCCCCC; /*#88b0e4; */
+    
+}
+.header{
+    font-size: 26px; 
+    font-weight: bold; 
+    color: #0033cc; 
+    text-align: center;
+}
+.ue{
+    font-size: 32px; 
+    font-weight: bold; 
+    color: #0033cc; 
+    width:480px;
+}
+.datatable{
+    font-size: 16px; 
+    font-weight: bold; 
+    color:#000000; 
+background-color: #EBEBEB;       
+}
+.datatable2{
+    font-size: 12px; 
+    font-weight: bold; 
+    color:#000000; 
+background-color: #EBEBEB;       
+}
+.value{
+   font-size: 14px; 
+    font-weight: bold; 
+    color:#ffffff; 
+background-color: blue;      
+    
+}
+.leftBar1{
+    font-size: 14px; 
+    font-weight: bold;
+    background:#EBEBEB; 
+    
+    
+}
+.counter{
+    font-size: 14px; 
+    font-weight: bold;
+     color: #0033cc; 
+     
+}
+}
+.leftBar2{
+    font-size: 14px; 
+    font-weight: bold; 
+    background: #b5a5fb; 
+    
+}
+.footer{
+    font-size: 14px; 
+    font-weight: bold; 
+    background: #DDDDDD;
+    text-align: center;
+}
+.banner{
+    
+    background-image: url(../Images/Banner.jpg);
+    height: 30px;
+    color:white;
+    font-size: 18px; 
+    font-weight: bold; 
+}
+.TemplateTD 
+{ 
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 3px;
+    padding-right: 3px; 
+    font-size: 16px; 
+    color: #002499; 
+    background-color: #FFFFFF; /*#F1F0F1 ;*/
+    border-top: solid 3px #0033cc; /*#88b0e4; */
+    border-left: solid 3px #0033cc; /*#88b0e4; */
+    border-bottom: solid 3px #0033cc; /*#88b0e4; */
+    border-right: solid 3px #0033cc; /*#88b0e4; */
+    border-top-color: #0033cc; /*#88b0e4; */
+    border-left-color: #0033cc; /*#88b0e4; */
+    border-bottom-color: #0033cc; /*#88b0e4; */
+    border-right-color: #0033cc; /*#88b0e4; */  
+} 
+

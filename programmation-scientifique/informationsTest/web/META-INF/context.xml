@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/informationsTest">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="10" maxWait="-1" name="jdbc/Detail" password="test11" type="javax.sql.DataSource" url="jdbc:mysql://10.130.0.12:3306/db_isaeTest?autoReconnect=true&amp;useEncoding=true&amp;characterEncoding=UTF8" username="test" validationQuery="select 1"/>
+</Context>
